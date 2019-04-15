@@ -1,0 +1,6 @@
+#  arquivos buildados
+bin/navegador
+bin/servidor
+
+#exemplo
+public_html/
