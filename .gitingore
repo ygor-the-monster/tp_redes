@@ -3,4 +3,4 @@ bin/navegador
 bin/servidor
 
 #exemplo
-public_html/
+public_html
